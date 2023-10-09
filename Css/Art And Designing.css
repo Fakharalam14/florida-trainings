@@ -1,0 +1,37 @@
+
+/* Section 3 */
+.s3-bd-colr{
+    background-color: #F5F5F5;
+}
+.s3-tc{
+    color: #0A2B5A; 
+}
+
+
+/* Section 4 */
+.s4-col2-bgc{
+  background-color: #27499B;
+  
+}
+
+.s4-col2-pzi{
+   position: absolute;
+
+}
+
+/* Section 5 */
+.s5-con-bgc{
+    background-color: #F5F5F5;
+}
+.s5-col1-pc{
+    color: #2575FC;
+}
+.s5-blb{
+    border-style: solid; 
+    border-width: 0px 0px 2px 0px; 
+    border-color: #F8A51B; 
+    align-content: center;
+}
+.s5-tc{
+   color:  #0A2B5A;
+}
